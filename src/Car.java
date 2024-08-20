@@ -10,10 +10,6 @@ public class Car extends Vehicle{
         this.wheelCount = wheelCount;
     }
 
-    /*@Override
-    public String toString() {
-        return "Person{name='" + name + "', age=" + age + "}";
-    }*/
 
     @Override
     public String toString() {
